@@ -25,3 +25,4 @@ A portable fingerprint-based attendance system using ESP32 and R307 sensor with 
 
 
 💡 Always learning, always building!
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://bd.linkedin.com/in/prantic-paul-80917a28a)
